@@ -22,3 +22,15 @@ WHERE name ='Anjali';
 UPDATE students
 SET student_id = 12
 WHERE name ='Rushaan';
+
+DELETE from students
+WHERE name = 'Anjali';
+
+Insert into students
+values(2,'Harsh',24,'C');
+
+SELECT * from students;
+
+/**
+
+*/
