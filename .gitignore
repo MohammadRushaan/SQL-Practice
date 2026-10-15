@@ -1,0 +1,15 @@
+# Database exports and binary dumps
+*.dump
+*.tar
+*.bak
+*.sqlite3
+
+# Local credentials or environment configs
+*.env
+*.credentials
+
+# OS and Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
